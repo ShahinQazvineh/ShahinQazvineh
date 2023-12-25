@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahin Ghazvineh</h1>
 <h3 align="center">A passionate researcher interested in the intersection of Structural Health Monitoring (SHM) and Data Science</h3>
-<p><img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*4GhdaPm1vQ13tOgUQWqK1A.gif" alt="NeuralNetwork" /></p>
+<p align="center"><img width="400" src="https://github.com/ShahinGrQ/ShahinGrQ/blob/main/NN.gif" alt="Neural-Network" /><p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahingrq&label=Profile%20views&color=0e75b6&style=flat" alt="shahingrq" /> </p>
 
