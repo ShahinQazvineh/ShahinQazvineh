@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahin Ghazvineh</h1>
-<h3 align="center">A passionate Structural Health Monitoring (SHM) researcher from Iran</h3>
+<h3 align="center">A passionate researcher interested in the intersection of Structural Health Monitoring (SHM) and Data Science</h3>
+<p><img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*4GhdaPm1vQ13tOgUQWqK1A.gif" alt="NeuralNetwork" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahingrq&label=Profile%20views&color=0e75b6&style=flat" alt="shahingrq" /> </p>
 
@@ -16,6 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahinghazvineh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahinghazvineh" height="30" width="40" /></a>
+</p>
+<a href="https://www.researchgate.net/profile/Shahin-Ghazvineh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="Shahin-Ghazvineh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
