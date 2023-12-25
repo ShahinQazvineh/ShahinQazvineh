@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shahin Ghazvineh</h1>
-<h3 align="center">A passionate researcher interested in the intersection of Structural Health Monitoring (SHM) and Data Science</h3>
-<p align="center"><img width="400" src="https://github.com/ShahinGrQ/ShahinGrQ/blob/main/NN.gif" alt="Neural-Network" /><p>
+<h3 align="center">A passionate researcher interested in the intersection of SHM and AI</h3>
+<p align="center"><img width="400" src="https://github.com/ShahinGrQ/ShahinGrQ/blob/main/tech.gif" alt="Tech" /><p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahingrq&label=Profile%20views&color=0e75b6&style=flat" alt="shahingrq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahingrq" alt="shahingrq" /></a> </p>
+
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **SHM/ML/DL**
+- 💬 Ask me about **Structural Health Monitoring/Machine Learning/Deep Learning**
 
 - 📫 How to reach me **shahinghazvine@gmail.com**
 
