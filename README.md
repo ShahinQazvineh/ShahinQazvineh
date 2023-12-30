@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahin Ghazvineh</h1>
 <h3 align="center">A passionate researcher interested in the intersection of SHM and AI</h3>
-<p align="center"><img width="400" src="https://github.com/ShahinGrQ/ShahinGrQ/blob/main/tech.gif" alt="Tech" /><p>
+<p align="center"><img width="400" src="https://github.com/ShahinGrQ/ShahinGrQ/blob/main/Serious.jpg" alt="Tech" /> <img width="533" src="https://github.com/ShahinGrQ/ShahinGrQ/blob/main/tech.gif" alt="Tech" /><p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahingrq&label=Profile%20views&color=0e75b6&style=flat" alt="shahingrq" /> </p>
 
