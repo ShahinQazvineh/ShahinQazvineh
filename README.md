@@ -2,7 +2,7 @@
 
 **`I Identify as a Researcher`**
 
-I'm a researcher in Structural Health Monitoring, a Python Instructor, and a part-time Data Scientist. So, basically, I share my ML projects here!
+I'm a researcher in Structural Engineering, a Python Instructor, and a part-time Data Scientist. So, I share my ML projects here!
 
    <p align="left">
       <a href="https://github.com/ShahinQazvineh?tab=followers">
