@@ -37,7 +37,7 @@ I'm a researcher in Structural Engineering, a Python Instructor, and a part-time
 #
 
 <details>
- <summary><h3>👨‍💻 SHAHIN's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Research</h3></summary>
    Coming soon!
 
 [LinkedIn]: https://www.linkedin.com/in/shahinghazvineh/
