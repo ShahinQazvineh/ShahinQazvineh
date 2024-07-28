@@ -33,15 +33,15 @@ I'm a researcher in Structural Engineering, a Python Instructor, and a part-time
 ### 📚 My Research
 
 <a href="https://ascelibrary.org/doi/abs/10.1061/PPSCFX.SCENG-1292">
-  <img align="left" alt="ML Review" title="Machine-Learning Applications in Structural Response Prediction: A Review" width="150px" height="100px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/cb4c49fa-fd6f-4501-ba4d-6b52001a6f26" />
+  <img align="left" alt="ML Review" title="Machine-Learning Applications in Structural Response Prediction: A Review" width="200px" height="100px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/cb4c49fa-fd6f-4501-ba4d-6b52001a6f26" />
 </a>
 
 <a href="https://doi.org/10.1515/9783110791426-007">
-  <img align="left" alt="Book Chapter" title="Vibration-based damage detection using a novel hybrid CNN-SVM approach" width="150px" height="100px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/5044a812-035c-48cc-93ea-6fc5e3a1e63e" />
+  <img align="left" alt="Book Chapter" title="Vibration-based damage detection using a novel hybrid CNN-SVM approach" width="200px" height="100px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/5044a812-035c-48cc-93ea-6fc5e3a1e63e" />
 </a>
 
 <a href="https://arxiv.org/abs/2110.15895">
-  <img align="left" alt="ML Review" title="Application of 2-D Convolutional Neural Networks for Damage Detection in Steel Frame Structures" width="150px" height="100px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/9132314f-6422-4607-bf32-2fc9b464914e" />
+  <img align="left" alt="ML Review" title="Application of 2-D Convolutional Neural Networks for Damage Detection in Steel Frame Structures" width="200px" height="100px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/9132314f-6422-4607-bf32-2fc9b464914e" />
 </a>
 
 <br clear="left"/>
