@@ -36,7 +36,7 @@ I'm a researcher in Structural Engineering and a Python Instructor.
 
 ### 📚 My Research
 
-**' Please Visit My Google Scholar Profile '**
+**'Please Visit My Google Scholar Profile'**
 <!--
 
    <a href="https://ascelibrary.org/doi/abs/10.1061/PPSCFX.SCENG-1292">
