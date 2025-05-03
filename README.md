@@ -17,18 +17,7 @@ I'm a researcher in Structural Engineering and a Python Instructor.
 <img align="left" alt="Python" width="30px" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Matlab" title="MATLAB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 
-<!--
-         <img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
-         <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
-         <img align="left" alt="TensorFlow"  title="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" />
-         <img align="left" alt="Keras" title="Keras" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" />
-         <img align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
-         <img align="left" alt="scikit-learn" title="scikit-learn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
-         <img align="left" alt="pandas" title="pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" />
-         <img align="left" alt="Numpy" title="NumPy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg" />
-         <img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" />
 
--->
 <img align="left" alt="Kaggle" title="Kaggle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kaggle/kaggle-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
@@ -37,25 +26,7 @@ I'm a researcher in Structural Engineering and a Python Instructor.
 ### 📚 My Research
 
 **`Please Visit My Google Scholar Profile`**
-<!--
 
-   <a href="https://ascelibrary.org/doi/abs/10.1061/PPSCFX.SCENG-1292">
-     <img align="left" alt="ML Review" title="ML Applications in Structural Response Prediction: A Review" width="250px" height="150px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/cb4c49fa-fd6f-4501-ba4d-6b52001a6f26" />
-   </a>
-   
-   <a href="https://doi.org/10.1515/9783110791426-007">
-     <img align="left" alt="Book Chapter" title="Vibration-based damage detection using a novel hybrid CNN-SVM approach" width="250px" height="150px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/5044a812-035c-48cc-93ea-6fc5e3a1e63e" />
-   </a>
-   
-   <a href="https://arxiv.org/abs/2110.15895">
-     <img align="left" alt="ML Review" title="Application of 2-D CNNs for Damage Detection in Steel Frame Structures" width="250px" height="150px" style="padding-right:100px;" src="https://github.com/user-attachments/assets/9132314f-6422-4607-bf32-2fc9b464914e" />
-   </a>
-   
-   <br clear="left"/>
-   <br><br>
-   <hr>
-
--->
 
 ### 📊 Stats
 
